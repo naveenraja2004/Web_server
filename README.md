@@ -51,6 +51,8 @@ print("Web server running...")
 httpd.serve_forever()    
 ```
 # OUTPUT:
+![out2](https://user-images.githubusercontent.com/118707204/215314178-ed5f7b3f-2b58-4583-9f48-0f9997bf5b31.png)
+
 
 # RESULT:
 
